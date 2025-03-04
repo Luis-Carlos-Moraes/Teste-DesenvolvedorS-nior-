@@ -1,5 +1,4 @@
 import dotenv from 'dotenv';
-import batch from 'stream-chain/utils/batch.js';
 
 dotenv.config();
 
