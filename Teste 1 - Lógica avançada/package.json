@@ -4,14 +4,25 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "tsx src/main/index.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^22.13.9",
+    "@types/pg": "^8.11.11",
+    "@types/stream-chain": "^2.1.0",
+    "@types/stream-json": "^1.7.8",
     "tsx": "^4.19.3",
     "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "heap-js": "^2.6.0",
+    "pg": "^8.13.3",
+    "pino": "^9.6.0",
+    "stream-chain": "^3.4.0",
+    "stream-json": "^1.9.1"
   }
 }
