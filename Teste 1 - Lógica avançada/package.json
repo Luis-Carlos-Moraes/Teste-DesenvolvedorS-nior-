@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsx src/main/index.ts"
+    "start": "node dist/main/index.js",
+    "start:dev": "tsx src/main/index.ts",
+    "ci": "CI=true pnpm i",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
