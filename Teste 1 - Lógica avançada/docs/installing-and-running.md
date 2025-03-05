@@ -16,16 +16,11 @@
 
 ## Iniciar modo de desenvolvimento
 
-1. Clonar repositório
-
-   ```bash
-   git clone https://github.com/monterxto/
-   ```
+1. Clone o repositório
 
 2. Dentro do diretório do projeto copie o conteudo de `env-example` para `.env`.
 
    ```bash
-   cd projeto
    cp env-example .env
    ```
 
@@ -52,16 +47,11 @@
 
 ## Buildar e iniciar
 
-1. Clonar repositório
-
-   ```bash
-   git clone https://github.com/monterxto/
-   ```
+1. Clone o repositório
 
 2. Dentro do diretório do projeto copie o conteudo de `env-example` para `.env`.
 
    ```bash
-   cd projeto
    cp env-example .env
    ```
 
