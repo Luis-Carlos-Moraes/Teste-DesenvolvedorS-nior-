@@ -1,0 +1,11 @@
+DB_USER=root
+DB_HOST=localhost
+DB_NAME=postgres
+DB_PASSWORD=root
+DB_PORT=5432
+
+FILE_PATH=./transacoes1m.json
+
+AVAILABLE_MEMORY=224000000  # Memória disponível em bytes
+CHUNK_SIZE=500000           # Tamanho dos chunks para arquivos grandes
+BATCH_SIZE=5000             # Tamanho de batch a ser inserido no banco de dados
