@@ -7,14 +7,14 @@ Este documento descreve o primeiro teste técnico do repositório: **Teste de L�
 📈 Resultados de Performance
 
 Arquivo transacoes1k.json de 1k de registros:
-![image](https://github.com/user-attachments/assets/b44292dd-c2e2-4f63-a7bd-a2c88b08fc4c)
+- ![image](https://github.com/user-attachments/assets/b44292dd-c2e2-4f63-a7bd-a2c88b08fc4c)
 
-![image](https://github.com/user-attachments/assets/55abcade-e84e-4451-a9bf-12ee18ae7064)
+- ![image](https://github.com/user-attachments/assets/55abcade-e84e-4451-a9bf-12ee18ae7064)
 
 Arquivo transacoes1m.json de 1m de registros:
-![image](https://github.com/user-attachments/assets/b0707ea8-1153-40b3-ae1f-17ec598b6207)
+- ![image](https://github.com/user-attachments/assets/b0707ea8-1153-40b3-ae1f-17ec598b6207)
 
-![image](https://github.com/user-attachments/assets/bb2d2c85-49f5-48a5-8c11-1e74d99cdfc8)
+- ![image](https://github.com/user-attachments/assets/bb2d2c85-49f5-48a5-8c11-1e74d99cdfc8)
 
 ---
 
