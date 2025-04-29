@@ -3,7 +3,7 @@ import { Deduplicator } from "./Deduplicator.js";
 import { TransactionBatchWriter } from "./TransactionBatchWriter.js";
 import { TransactionProcessor } from "./TransactionProcessor.js";
 
-const FILE_PATH = process.env.FILE_PATH || "../transacoes1m.json";
+const FILE_PATH = process.env.FILE_PATH || "../transacoes1k.json";
 const DUPLICATE_DETECTION_WINDOW_MS  = 10_000;
 const MONGODB_URL = process.env.MONGODB_URL || "mongodb://localhost:27017";
 const DATABASE_NAME = "teste_logic";
